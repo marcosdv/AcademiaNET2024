@@ -7,7 +7,7 @@
 ### Conteúdo
 
 - [x] Aula 01 - Acesso a dados com ADO.Net - 31/07/2024
-- [ ] Aula 02 - Arquitetura do ADO.NET
+- [x] Aula 02 - Arquitetura do ADO.NET - 01-08-2024
 - [ ] Aula 03 - NameSpace System.Data
 - [ ] Aula 04 - Conexões com Banco de Dados
 - [ ] Aula 05 - Conexões com Banco de Dados
