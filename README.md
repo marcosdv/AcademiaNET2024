@@ -8,9 +8,9 @@
 
 - [x] Aula 01 - Acesso a dados com ADO.Net - 31/07/2024
 - [x] Aula 02 - Arquitetura do ADO.NET - 01-08-2024
-- [ ] Aula 03 - NameSpace System.Data
-- [ ] Aula 04 - Conexões com Banco de Dados
-- [ ] Aula 05 - Conexões com Banco de Dados
+- [x] Aula 03 - NameSpace System.Data - 05-08-2024
+- [ ] Aula 04 - Conexões com Banco de Dados - 07-08-2024
+- [ ] Aula 05 - Conexões com Banco de Dados - 08-08-2024
 - [ ] Aula 06 - Controle de Transações
 - [ ] Aula 07 - Controle de Transações
 - [ ] Aula 08 - Execução de comandos SQL e procedimentos armazenados
