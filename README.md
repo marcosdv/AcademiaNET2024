@@ -28,3 +28,4 @@ As seguintes ferramentas foram usadas na construção dos projetos:
 - [SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
 - [ADO.NET](https://docs.microsoft.com/pt-br/dotnet/framework/data/adonet/)
 - [Dapper](https://github.com/DapperLib/Dapper)
+- [Connection Strings](https://www.connectionstrings.com/)
