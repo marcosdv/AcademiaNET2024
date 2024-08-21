@@ -15,7 +15,7 @@
 - [x] Aula 07 - Controle de Transações e Execução de comandos SQL e procedimentos armazenados - 14-08-2024
 - [x] Aula 08 - Criação e uso do modelo de dados de entidade para acessar um banco de dados e Configurando o ORM Dapper no Projeto - 15-08-2024
 - [x] Aula 09 - CRUD de Noticias com o Dapper - 19-08-2024
-- [ ] Aula 10 - LINQ para consultas e atualizar dados - 21-08-2024
+- [x] Aula 10 - LINQ para consultas e atualizar dados - 21-08-2024
 - [ ] Aula 11 - Introdução ao EntityFramework - 22-08-2024
 - [ ] Aula 12 - Introdução ao EntityFramework - 26-08-2024
 
