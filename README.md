@@ -17,7 +17,7 @@
 - [x] Aula 09 - CRUD de Noticias com o Dapper - 19-08-2024
 - [x] Aula 10 - LINQ para consultas e atualizar dados - 21-08-2024
 - [x] Aula 11 - Introdução ao EntityFramework - 22-08-2024
-- [ ] Aula 12 - Introdução ao EntityFramework - 26-08-2024
+- [x] Aula 12 - Introdução ao EntityFramework - 26-08-2024
 
 ### Tecnologias
 
